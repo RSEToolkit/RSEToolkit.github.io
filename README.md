@@ -1,9 +1,6 @@
-<h1>
-  <img src="images/RTKlogo-small.png"
-       width="148"
-       style="float:left; margin-right:14px;">
-  RSE Toolkit: The Research Software Engineer's Toolkit
-</h1>
+<img src="images/RTKlogo-small.png" width="148"/>
+
+# RSE Toolkit: The Research Software Engineer's Toolkit
 
 The RSE Toolkit (referred to as RTK in this README) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information in this repository.
 
