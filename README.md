@@ -4,7 +4,7 @@
 
 The RSE Toolkit (referred to as RTK in this README) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information in this repository.
 
-## Why RTK?
+## Why RTK?
 
 This started out as an idea quite sometime ago (indeed this repository was created a long time ago without any activity!). The RSE community in the UK and beyond has been developing rapidly with groups and communities being started and growing at quite a pace as the interest in research software engineering continues to increase. 
 
