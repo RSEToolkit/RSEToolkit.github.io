@@ -84,4 +84,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+jekyll
+Gemfile*
 
+# VSCode
+*.code-workspace
