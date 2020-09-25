@@ -1,4 +1,4 @@
-<img src="images/RTKlogo-small.png" width="148"/>
+<img src="/docs/images/RTKlogo-small.png" width="148"/>
 
 # RSE Toolkit: The Research Software Engineer's Toolkit
 
