@@ -34,7 +34,7 @@ The core set of resources that RTK is aiming to develop initially is:
 
  - **rtk:** A Python command line tool with pluggable modules for undertaking common RSE tasks - develop and contribute your own modules or help to extend existing code.
 
-The RTK resources will be available through the GitHub pages site for RTK and can be accessed at [https://jcohen02.github.com/RSEToolkit](https://jcohen02.github.com/RSEToolkit).
+The RTK resources will be available through the GitHub pages site for RTK and can be accessed at [https://github.com/RSEToolkit/RSEToolkit.github.io](https://github.com/RSEToolkit/RSEToolkit.github.io).
 
 ## Contributing
 
