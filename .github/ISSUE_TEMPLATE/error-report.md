@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 **Error type**
-What type of error are you reporting?
+What type of error are you reporting? _(replace [ ] with [x] to check the relevant box in the list below)_
 
-- [ ] **Presentation error: ** A typo, grammatical error or an error in the way content is rendered or displayed
-- [ ] **Content error: ** An error in the content itself - content that is incorrect or lacking significant detail
-- [ ] **Other error: ** Another type of error with the content not represented by the above options
+- [ ] **Presentation error:** A typo, grammatical error or an error in the way content is rendered or displayed
+- [ ] **Content error:** An error in the content itself - content that is incorrect or lacking significant detail
+- [ ] **Other error:** Another type of error with the content not represented by the above options
 
 **Where is the error?**
 Please provide the location within the RSE Toolkit content of the error(s) you are reporting.
