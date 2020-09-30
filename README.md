@@ -2,13 +2,20 @@
 
 # RSE Toolkit: The Research Software Engineer's Toolkit
 
-The RSE Toolkit (referred to as RTK in this README) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information in this repository.
+Welcome to the Research Software Engineer's Toolkit - the RSE Toolkit (referred to as RTK in this README). 
+
+What is the RSE Toolkit?
+
+ - an open resource for sharing best practices in research software engineering
+ - a community maintained and moderated guide covering general software engineering and domain-specific practices
+ - a platform for knowledge sharing by RSEs of any experience level, from novice to expert, working in any research domain.
+
+
+RTK is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information in this repository.
 
 ## Why RTK?
 
-This started out as an idea quite sometime ago (indeed this repository was created a long time ago without any activity!). The RSE community in the UK and beyond has been developing rapidly with groups and communities being started and growing at quite a pace as the interest in research software engineering continues to increase. 
-
-There is a wealth of information out there but there is so much information, it can sometimes be difficult to find what we're looking for, or more generally, to find a summary of the things it is useful to know or be aware of as an RSE.
+There is a wealth of information out there. So much information, in fact, that it can sometimes be difficult to find what we're looking for, or more generally, to find a summary of the things it is useful to know or be aware of as an RSE.
 
 The initial list of resource areas for RTK is likely to change over time. Some elements may grow, others may disappear and new areas are likely to be added.
 
@@ -26,8 +33,12 @@ The core set of resources that RTK is aiming to develop initially is:
 
  - **rtk:** A Python command line tool with pluggable modules for undertaking common RSE tasks - develop and contribute your own modules or help to extend existing code.
 
-The RTK resources will be available through the GitHub pages site for RTK and can be accessed at [https://jcohen02.github.com/RSEToolkit](https://jcohen02.github.com/RSEToolkit).
+The RTK resources will be available through the GitHub pages site for RTK and can be accessed at [https://github.com/RSEToolkit/RSEToolkit.github.io](https://github.com/RSEToolkit/RSEToolkit.github.io).
+
+## Creating RTK
+
+This started out as an idea quite sometime ago but it has taken a long time to begin populating the resource. Some initial content was added to get things going and this has then been taken forward by a small team brought together as part of the [International RSE Leaders Workshop 2020](https://researchsoftware.org/2020-workshop) in September 2020.
 
 ## Contributing
 
-Contributions to RTK are welcome. Full contributing guidelines will follow soon. In the meantime, feel free to raise a PR with information you'd like to add, or create an issue highlighting anything that you'd like to see available via this resource.
+Contributions to RTK are welcome. Full contributing guidelines will follow soon. In the meantime, please create an issue using one of our issue templates and also feel free to raise a PR with information you'd like to add.
