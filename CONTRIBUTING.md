@@ -44,4 +44,4 @@ The Code of Conduct applies to any interactions that you have in relation to the
 
 #### Licensing
 
-Please note that all material you contribute to the RSE Toolkit will be released under a [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/legalcode). By contributing material to this resource, you agree to the material being released under this licence and you agree that you have the right to contribute this material and to have it made available under a CC-BY 4.0 licence.
+Please note that all material you contribute to the RSE Toolkit will be released under a [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/). By contributing material to this resource, you agree to the material being released under this licence and you agree that you have the right to contribute this material and to have it made available under a CC-BY 4.0 licence.
