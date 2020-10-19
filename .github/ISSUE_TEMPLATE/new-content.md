@@ -1,6 +1,6 @@
 ---
 name: Requesting or providing new content
-about: Request that new content is provided in the RSEToolkit or provide details of new content you will be providing.
+about: Request that new content is provided in the RSEToolkit or give details of new content you will be providing.
 title: ''
 labels: new content
 assignees: ''
@@ -19,7 +19,7 @@ Please detail the content you would like to see added or that you are providing.
 
 _If you are requesting or providing content, please provide as much detail as possible in the sections below. Please note that this information is especially important if you are requesting content. Content can be very time consuming to prepare and it is important that the value and benefits of any new content are understood in order to prioritise the preparation of new material._
 
-**Target domain**
+**Target domain(s)**
 Does this content relate to a specific domain or is it generic? _If the content relates specifically to one or more domains, please list the domain(s)._
 
 **Benefit to the Research Software Engineering community**
