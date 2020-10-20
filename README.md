@@ -41,4 +41,4 @@ This started out as an idea quite sometime ago but it has taken a long time to b
 
 ## Contributing
 
-Contributions to RTK are welcome. Full contributing guidelines will follow soon. In the meantime, please create an issue using one of our issue templates and also feel free to raise a PR with information you'd like to add.
+Contributions to RTK are welcome. See our [contributing guidelines](CONTRIBUTING.md) for full details of how you can contribute.
