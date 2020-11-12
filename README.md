@@ -39,6 +39,12 @@ The RTK resources will be available through the GitHub pages site for RTK and ca
 
 This started out as an idea quite sometime ago but it has taken a long time to begin populating the resource. Some initial content was added to get things going and this has then been taken forward by a small team brought together as part of the [International RSE Leaders Workshop 2020](https://researchsoftware.org/2020-workshop) in September 2020.
 
+## Code of Conduct
+
+We value and encourage contributions to this resource. To ensure that everyone feels welcome and able to suggest new material they'd like to see, contribute new content or engage in discussion about the RSE Toolkit's content, it is important that you are aware of and adhere to our [Code of Conduct](https://github.com/RSEToolkit/RSEToolkit.github.io/blob/main/CODE_OF_CONDUCT.md).
+
+The [Code of Conduct](https://github.com/RSEToolkit/RSEToolkit.github.io/blob/main/CODE_OF_CONDUCT.md) applies to any interactions that you have in relation to the RSE Toolkit, either via GitHub, our [Slack channel](https://ukrse.slack.com/archives/C01AM13K230) (#rsetoolkit on UK RSE Slack) or any other such means.
+
 ## Contributing
 
 Contributions to RTK are welcome. See our [contributing guidelines](CONTRIBUTING.md) for full details of how you can contribute.
