@@ -36,6 +36,12 @@ The core set of resources that RTK is aiming to develop initially is:
 
 The RTK resources will be available through the GitHub pages site for RTK and can be accessed at [https://github.com/RSEToolkit/RSEToolkit.github.io](https://github.com/RSEToolkit/RSEToolkit.github.io).
 
+## Code of Conduct
+
+We value and encourage contributions to this resource. To ensure that everyone feels welcome and able to suggest new material they'd like to see, contribute new content or engage in discussion about the RSE Toolkit's content, it is important that you are aware of and adhere to our [Code of Conduct]({{ site.baseurl }}{% link code_of_conduct.md %}).
+
+The [Code of Conduct]({{ site.baseurl }}{% link code_of_conduct.md %}) applies to any interactions that you have in relation to the RSE Toolkit, either via GitHub, our [Slack channel](https://ukrse.slack.com/archives/C01AM13K230) (#rsetoolkit on UK RSE Slack) or any other such means.
+
 ## Contributing
 
-Contributions to RTK are welcome. Full contributing guidelines will follow soon. In the meantime, feel free to raise a PR with information you'd like to add, or create an issue highlighting anything that you'd like to see available via this resource.
+Contributions to RTK are welcome. See our [contributing guidelines]({{ site.baseurl }}{% link contributing.md %}) for full details of how you can contribute.
