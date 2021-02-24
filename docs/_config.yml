@@ -1,2 +1,51 @@
 title: The Research Software Engineer's Toolkit
-theme: jekyll-theme-slate
+description: >- # this means to ignore newlines until next key
+  The Research Software Engineer's Toolkit is a resource 
+  for both new and experienced RSEs providing content and 
+  links to help you enhance your software and project 
+  knowledge and skills and to make the shift between 
+  working in different discilpines more straightforward.
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+# Reading Files
+include:
+  - _pages
+exclude:
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Gemfile
+  - LICENSE
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+  # Build settings
+markdown: kramdown
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache

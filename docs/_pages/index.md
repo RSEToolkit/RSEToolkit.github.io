@@ -1,5 +1,7 @@
 ---
+permalink: /
 title: The Research Software Engineer's Toolkit
+layout: home
 ---
 
 # RSE Toolkit: The Research Software Engineer's Toolkit
