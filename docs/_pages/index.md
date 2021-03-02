@@ -13,9 +13,11 @@ header:
 The RSE Toolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}).
 
 #### Quick links:
- - ###### [Tech Hub]({{ site.baseurl }}{% link tech/index.md %})
+- ###### [New to RSE?]({{ site.baseurl }}{% link _pages/newtoRSE/index.md %})
+ - ###### [Software Development Hub]({{ site.baseurl }}{% link _pages/softdev/index.md %})
  - ###### [Training Hub]({{ site.baseurl }}{% link training/index.md %})
  - ###### [Research Hub]({{ site.baseurl }}{% link research/index.md %})
+ - ###### [Subject Guide]({{ site.baseurl }}{% link _pages/subjectguide/index.md %})
  - ###### rtk
 
 ## Why RTK?
