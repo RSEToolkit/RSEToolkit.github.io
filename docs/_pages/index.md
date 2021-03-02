@@ -3,9 +3,9 @@ permalink: /
 title: The Research Software Engineer's Toolkit
 layout: splash
 header:
-  overlay_image: /assets/images/tools-bg.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/tools-bg2.jpg
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Louis Hansel on Unsplash**](https://unsplash.com/photos/Rf9eElW3Qxo) (modified)"
 ---
 
 # RSE Toolkit: The Research Software Engineer's Toolkit
