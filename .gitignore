@@ -85,7 +85,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 jekyll
-Gemfile*
+Gemfile.lock
 
 # VSCode
 *.code-workspace
