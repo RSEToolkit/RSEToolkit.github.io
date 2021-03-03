@@ -1,8 +1,10 @@
 ---
-title: RSE Toolkit - Research Hub
-breadcrumb: Research Hub
+permalink: /softdev/
+title: RSE Toolkit - Software Development
+breadcrumb: Software Development
+layout: single
 ---
 
-# Research Resources
+### Software Development Resources
 
 Details of research resources for RSEs.

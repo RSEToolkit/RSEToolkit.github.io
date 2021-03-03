@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until next key
   working in different discilpines more straightforward.
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 
 # Reading Files
