@@ -2,15 +2,27 @@
 permalink: /
 title: The Research Software Engineer's Toolkit
 layout: splash
+excerpt: "<b>Quick start</b> - What is your role?"
 header:
   overlay_image: /assets/images/tools-bg2.jpg
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Louis Hansel on Unsplash**](https://unsplash.com/photos/Rf9eElW3Qxo) (modified)"
+  actions:
+    
+    - label: "New to RSE"
+      url: "#"
+    - label: "Experienced RSE"
+      url: "#"
+    - label: "Researcher"
+      url: "#"
 ---
 
 # RSE Toolkit: The Research Software Engineer's Toolkit
 
 The RSE Toolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}).
+
+**Suggest or contribute new content:** The RSEToolkit is a work in progress. We're continuing to develop the resource and are always happy to receive contributions via [our GitHub repository](https://github.com/rsetoolkit/rsetoolkit). You can [open an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose) if there's some content you'd like us to add, or you can contribute content directly by forking the repository and opening a GitHub pull request with new content.
+{: .notice--info}
 
 #### Quick links:
  - ###### [New to RSE?]({{ site.baseurl }}{% link _pages/roles/new-rse.md %})
