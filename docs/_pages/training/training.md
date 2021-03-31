@@ -1,6 +1,8 @@
 ---
+permalink: /training/
 title: RSE Toolkit - Training Hub
 breadcrumb: Training Hub
+layout: single
 ---
 
 # Training Resources

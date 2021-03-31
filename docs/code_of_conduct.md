@@ -1,6 +1,7 @@
 ---
 title: RSE Toolkit - Code of Conduct
 breadcrumb: Code of Conduct
+layout: splash
 ---
 
 # Contributor Covenant Code of Conduct
@@ -73,10 +74,8 @@ members of the project's leadership.
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 [homepage]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
-
+For answers to common questions about this code of conduct, see [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq)
