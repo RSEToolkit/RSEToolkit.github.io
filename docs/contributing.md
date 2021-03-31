@@ -1,6 +1,7 @@
 ---
 title: RSE Toolkit - Contributing Guidelines
 breadcrumb: Contributing
+layout: splash
 ---
 
 # Contributing to the RSEToolkit

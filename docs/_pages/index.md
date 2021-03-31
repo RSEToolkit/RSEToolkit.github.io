@@ -10,7 +10,7 @@ header:
   actions:
     
     - label: "New to RSE"
-      url: "#"
+      url: /roles/new-rse/
     - label: "Experienced RSE"
       url: "#"
     - label: "Researcher"
@@ -21,14 +21,14 @@ header:
 
 The RSE Toolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}).
 
-**Suggest or contribute new content:** The RSEToolkit is a work in progress. We're continuing to develop the resource and are always happy to receive contributions via [our GitHub repository](https://github.com/rsetoolkit/rsetoolkit). You can [open an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose) if there's some content you'd like us to add, or you can contribute content directly by forking the repository and opening a GitHub pull request with new content.
+**Suggest or contribute new content:** The RSEToolkit is a work in progress. We're continuing to develop the resource and are always happy to receive contributions via [our GitHub repository](https://github.com/rsetoolkit/rsetoolkit). You can [open an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose) if there's some content you'd like us to add, or you can contribute content directly by following our [contributing guidelines]({{ site.baseurl }}{% link contributing.md %}).
 {: .notice--info}
 
 #### Quick links:
  - ###### [New to RSE?]({{ site.baseurl }}{% link _pages/roles/new-rse.md %})
- - ###### [Software Development Hub]({{ site.baseurl }}{% link _pages/softdev/index.md %})
- - ###### [Training Hub]({{ site.baseurl }}{% link training/index.md %})
- - ###### [Research Hub]({{ site.baseurl }}{% link research/index.md %})
+ - ###### [Software Development Hub]({{ site.baseurl }}{% link _pages/softdev/softdev.md %})
+ - ###### [Training Hub]({{ site.baseurl }}{% link _pages/training/training.md %})
+ - ###### [Research Hub]({{ site.baseurl }}{% link _pages/research/research.md %})
  - ###### [Subject Guide]({{ site.baseurl }}{% link _pages/subjectguide/guide.md %})
  - ###### rtk
 
@@ -46,11 +46,11 @@ It's taken some time to get round to working on this but it's hoped that this in
 
 The core set of resources that RTK is aiming to develop initially is:
 
- - **[Tech Hub]({{ site.baseurl }}{% link tech/index.md %}):** A place to find details of the most important technical skills that RSEs can learn, why they're important and where to learn them! The Tech Hub will also include overviews of key technical areas such as testing, CI, CD, etc.
+ - **[Tech Hub]({{ site.baseurl }}{% link _pages/tech/tech.md %}):** A place to find details of the most important technical skills that RSEs can learn, why they're important and where to learn them! The Tech Hub will also include overviews of key technical areas such as testing, CI, CD, etc.
 
- - **[Training Hub]({{ site.baseurl }}{% link training/index.md %}):** A place to find a summary of the different things that it's important to know as an RSE, categorised by specific RSE role and career aims, as well as a comprehensive directory of RSE training resources.
+ - **[Training Hub]({{ site.baseurl }}{% link _pages/training/training.md %}):** A place to find a summary of the different things that it's important to know as an RSE, categorised by specific RSE role and career aims, as well as a comprehensive directory of RSE training resources.
 
- - **[Research Hub]({{ site.baseurl }}{% link research/index.md %}):** Information on RSE-related research resources, how to get research credit for your RSE work if you're a research-focused RSE and advice and links to resources to help develop your research profile as an RSE.
+ - **[Research Hub]({{ site.baseurl }}{% link _pages/research/research.md %}):** Information on RSE-related research resources, how to get research credit for your RSE work if you're a research-focused RSE and advice and links to resources to help develop your research profile as an RSE.
 
  - **rtk:** A Python command line tool with pluggable modules for undertaking common RSE tasks - develop and contribute your own modules or help to extend existing code.
 
