@@ -8,3 +8,5 @@ layout: single
 # Research Resources
 
 Details of research resources for RSEs.
+
+{% include can-you-help.html %}

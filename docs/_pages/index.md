@@ -12,14 +12,14 @@ header:
     - label: "New to RSE"
       url: /roles/new-rse/
     - label: "Experienced RSE"
-      url: "#"
+      url: "/roles/experienced-rse/"
     - label: "Researcher"
-      url: "#"
+      url: "/roles/researcher/"
 ---
 
-# RSE Toolkit: The Research Software Engineer's Toolkit
+# RSEToolkit: The Research Software Engineer's Toolkit
 
-The RSE Toolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}).
+The RSEToolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}).
 
 **Suggest or contribute new content:** The RSEToolkit is a work in progress. We're continuing to develop the resource and are always happy to receive contributions via [our GitHub repository](https://github.com/rsetoolkit/rsetoolkit). You can [open an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose) if there's some content you'd like us to add, or you can contribute content directly by following our [contributing guidelines]({{ site.baseurl }}{% link contributing.md %}).
 {: .notice--info}
@@ -30,11 +30,10 @@ The RSE Toolkit (RTK) is intended to be a community developed resource for Resea
  - ###### [Training Hub]({{ site.baseurl }}{% link _pages/training/training.md %})
  - ###### [Research Hub]({{ site.baseurl }}{% link _pages/research/research.md %})
  - ###### [Subject Guide]({{ site.baseurl }}{% link _pages/subjectguide/guide.md %})
- - ###### rtk
 
 ## Why RTK?
 
-This started out as an idea quite some time ago - indeed the (until recently empty) GitHub repository was created a while back with a view to developing this resource! The RSE community in the UK and beyond has been developing rapidly with groups and communities being started and growing at quite a pace as the interest in research software engineering continues to increase. This resource is intended to support this growth and provide a place where community members can link to their own materials or collaboratively develop new materials.
+The RSE community in the UK and beyond has been developing rapidly with groups and communities being started and growing at quite a pace as the interest in research software engineering continues to increase. This resource is intended to support this growth and provide a place where community members can link to their own materials or collaboratively develop new materials.
 
 There is a wealth of information out there but with so much information, it can sometimes be difficult to find what we're looking for, or more generally, to find a summary of the things it is useful to know or be aware of as an RSE.
 
@@ -52,9 +51,10 @@ The core set of resources that RTK is aiming to develop initially is:
 
  - **[Research Hub]({{ site.baseurl }}{% link _pages/research/research.md %}):** Information on RSE-related research resources, how to get research credit for your RSE work if you're a research-focused RSE and advice and links to resources to help develop your research profile as an RSE.
 
- - **rtk:** A Python command line tool with pluggable modules for undertaking common RSE tasks - develop and contribute your own modules or help to extend existing code.
-
-The RTK resources will be available through the GitHub pages site for RTK and can be accessed at [https://github.com/RSEToolkit/RSEToolkit.github.io](https://github.com/RSEToolkit/RSEToolkit.github.io).
+ - **[Subject Guides]({{ site.baseurl }}{% link _pages/subjectguide/guide.md %}):** Are you about
+ to start a new project in a field that you've not previously worked in? Want a quick overview
+ of the field? Want to know where to look for some helpful information? Check out our
+ [subject guides]({{ site.baseurl }}{% link _pages/subjectguide/guide.md %}).
 
 ## Code of Conduct
 
