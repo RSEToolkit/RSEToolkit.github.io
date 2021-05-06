@@ -7,4 +7,6 @@ layout: single
 
 ### Software Development Resources
 
-Details of research resources for RSEs.
+Details of software development resources for RSEs.
+
+{% include can-you-help.html %}

@@ -11,3 +11,4 @@ Guides for RSEs new to working in a range of different domains
 
 We have prepared some example guides for the following subjects.
 
+{% include can-you-help.html %}
