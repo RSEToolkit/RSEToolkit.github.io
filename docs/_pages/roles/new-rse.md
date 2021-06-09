@@ -85,8 +85,10 @@ TODO: Add links to more info about this distinction, maybe with some example job
 
 ### Where to look for RSE jobs
 
-
-
+    - https://us-rse.org/jobs/
+    - ukrse.slack.com jobs channel
+    - https://society-rse.org/careers/vacancies/
+    - https://jobs.ac.uk
 
 ### Core RSE resources
 
