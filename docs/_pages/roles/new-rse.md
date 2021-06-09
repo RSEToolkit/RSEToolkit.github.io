@@ -59,18 +59,38 @@ links to see some other perspectives of what an RSE is:
 
  - 
 
-
 ### Where are RSEs and RSE roles based?
 
-Some details about where RSE roles can be based.
+RSE roles can be split into the following types:
+
+ - Central RSE roles
+ - Embedded RSE roles
+
+Central RSEs are part of central organisation like Professional
+Services in an institution, and provide support for many different
+departments and research groups. RSEs who work in central RSE teams
+tend to work on a variety of projects [across multiple domains], but
+some of them can be subject experts as well.
+
+Embedded RSEs are a part of a research group in a specific department,
+and are similar to postdocs in their employment. They tend to be subject
+experts and work on more specific types of projects to central RSEs.
+
+Both of these types of RSEs will do a combination of research and software
+engineering. Most permanent RSE roles are based in central RSE teams and
+embedded RSEs tend to be employed on fixed-term contracts, similar to postdocs.
+
+TODO: Add links to more info about this distinction, maybe with some example job ads
+
+
+### Where to look for RSE jobs
+
+
+
 
 ### Core RSE resources
 
 Some of the main resources to refer to for information about Research Software Engineering.
-
-### Where to look for RSE jobs
-
-Some details about where to look for RSE jobs.
 
 
  {% include can-you-help.html %}
