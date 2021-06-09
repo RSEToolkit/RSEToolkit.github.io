@@ -11,10 +11,15 @@ layout: single
  - Pointers to information on core skills, best practices, etc.
  - ...
 
+# Resources and information for new RSEs
 
-## Research Resources
+This page provides a guide introducing RSE to newcomers to the field. You can
+use the links below to jump to a specific section.
 
-A guide introducing RSE to newcomers to the field
+Within this material we provide a large number of links to other resources
+that we hope will assist you in understanding RSE, the way it has developed,
+the approaches and best practices recommended for RSEs to use in their work
+and other general RSE guidance.
 
  - What is an RSE?
  - Where are RSEs based? (central teams, embedded in research groups, etc.)
@@ -24,7 +29,36 @@ A guide introducing RSE to newcomers to the field
 
 ### What is an RSE?
 
-Intro
+Research Software Engineers (RSEs) design, write and maintain software that
+is used to support or undertake research.
+
+They may spend all their time working on the development of software or it
+may form part of their role alongside other research, management or
+administrative tasks.
+
+The term “RSE” was first coined back in 2012 (see Simon Hettrick’s blog post
+“[A not-so-brief history of Research Software Engineers]”) but individuals
+undertaking RSE-like roles have existed at research institutions for many
+decades. Whether you have the job title “Research Software Engineer” or you
+are classed as a postdoctoral researcher or hold some other research or technical
+role, you may also consider yourself to be an RSE.
+
+[A not-so-brief history of Research Software Engineers]: https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0
+
+The RSE role is diverse and falls on a scale between traditional research
+and professional software engineering roles. There are examples of RSEs
+whose roles exist right across this scale, from very research-focused
+software development roles (for example in the Computer Science research area),
+to roles that are much more similar to professional software engineering
+roles.
+
+What defines an RSE is something that is a matter of opinion - there
+are almost as many definitions of RSE as there are RSEs! Here we’ve aimed
+to give you a very general view but take a look at some of the following
+links to see some other perspectives of what an RSE is:
+
+ - 
+
 
 ### Where are RSEs and RSE roles based?
 
