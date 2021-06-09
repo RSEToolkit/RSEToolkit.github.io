@@ -21,6 +21,8 @@ header:
 
 The RSEToolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}).
 
+**Use the role links in the header to quickly find information based on your role. Alternatively, explore the resource through the links below.**
+
 **Suggest or contribute new content:** The RSEToolkit is a work in progress. We're continuing to develop the resource and are always happy to receive contributions via [our GitHub repository](https://github.com/rsetoolkit/rsetoolkit). You can [open an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose) if there's some content you'd like us to add, or you can contribute content directly by following our [contributing guidelines]({{ site.baseurl }}{% link contributing.md %}).
 {: .notice--info}
 
