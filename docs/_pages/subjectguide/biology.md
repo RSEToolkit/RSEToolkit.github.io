@@ -1,3 +1,10 @@
+---
+permalink: /subject-guide/biology/
+title: RSE Toolkit - Subject Guide
+breadcrumb: Subject Guide
+layout: single
+---
+
 # Biology
 
 ## Bioinformatics
