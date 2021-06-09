@@ -11,6 +11,8 @@ layout: single
  - Pointers to information on core skills, best practices, etc.
  - ...
 
+{% include can-you-help.html %}
+
 # Resources and information for new RSEs
 
 This page provides a guide introducing RSE to newcomers to the field. You can
@@ -57,7 +59,13 @@ are almost as many definitions of RSE as there are RSEs! Here we’ve aimed
 to give you a very general view but take a look at some of the following
 links to see some other perspectives of what an RSE is:
 
- - 
+ - [Society of Research Software Engineering - About](https://society-rse.org/about/)
+ - [What is an RSE? (US-RSE)](https://us-rse.org/what-is-an-rse/)
+ - [What is a Research Software Engineer?](https://cosden.github.io/what-is-an-rse) - A blog post by Ian Cosden
+ - [Research Software Engineers (Software Sustainability Institute)](https://www.software.ac.uk/research-software-engineers)
+ - [The Story of the Research Software Engineer](https://us-rse.org/blog/2019/vsoch/the-research-software-engineer/) - A blog post by Vanessasaurus
+ - [Nordic research software engineers](https://nordic-rse.org/)
+ 
 
 ### Where are RSEs and RSE roles based?
 
@@ -80,19 +88,28 @@ Both of these types of RSEs will do a combination of research and software
 engineering. Most permanent RSE roles are based in central RSE teams and
 embedded RSEs tend to be employed on fixed-term contracts, similar to postdocs.
 
-TODO: Add links to more info about this distinction, maybe with some example job ads
-
 
 ### Where to look for RSE jobs
 
-    - https://us-rse.org/jobs/
-    - ukrse.slack.com jobs channel
-    - https://society-rse.org/careers/vacancies/
-    - https://jobs.ac.uk
+_[We're happy to receive additions to this list. Add your own additions via a
+pull request or [open an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose)
+detailing the link you'd like to see added and a maintainer will add the link to the list for you.]_
 
+There are now many sources for details of RSE jobs. A great place to start is the
+[Society of Research Software Engineering](https://society-rse.org/)'s 
+[**vacancies page**](https://society-rse.org/careers/vacancies/).
+
+Other good sources for RSE job information include:
+
+  - UK RSE Slack [#jobs](https://ukrse.slack.com/archives/C0NE5BQSK) channel -
+  if you're not already signed up to use UK RSE Slack, see details of how to
+  sign up on the [Society of Research Software Engineering Contact page](https://society-rse.org/about/contact/).
+  - [jobs.ac.uk](https://jobs.ac.uk)
+  - [Women in HPC jobs page](https://womeninhpc.org/community/jobs) 
+  - National RSE association jobs pages
+    - [US-RSE's RSE Opportunities page](https://us-rse.org/jobs/)
+  
 ### Core RSE resources
 
 Some of the main resources to refer to for information about Research Software Engineering.
 
-
- {% include can-you-help.html %}
