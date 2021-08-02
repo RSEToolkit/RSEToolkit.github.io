@@ -23,5 +23,40 @@ It's taken some time to get the toolkit started but it is hoped that the initial
 
 ## Content and resources
 
-The initial set of resource areas for RTK is likely to change, and hopefully grow, over time. Some areas may expand, others may become less significant and some may disappear as new areas are added.
+The initial set of resource areas for RTK is likely to change, and hopefully grow, over time. Some areas may expand, others may become less significant and some may disappear as new areas are added. We encourage members of the community to help make the content fit what you would like to see and what you find useful.
 
+The core, initial content covers the following areas:
+
+ - **Role guides**: Key resources for individuals with different research software related roles or levels of experience:
+    - **New to RSE**: Information for newcomers to RSE
+    - **Experienced RSE**: Information for experienced RSEs
+    - **Researcher**: Information for researchers involved with the development of software
+    - **Trainer**: Information for individuals whose primary role is supporting or undertaking research software-related training
+    - **Community manager**: Community managers working in the research software space
+
+ - **Subject guides**: Subject guides for researchers/RSEs undertaking research software development work in specific domains
+    - This material focuses on helping to support mobility of RSEs between domains, offering core information provided by RSEs to help you get started in a new domain.
+
+ - **Technical material**:
+    - **Programming languages**: Guides to key resources for working in different programming languages
+    - **Best practices**: Focus on best practices around software version control, testing, continuous integration/deployment (CI/CD), etc.
+
+## Contributing
+
+We welcome contributions to the RSEToolkit. There are various different ways that you can contribute:
+
+ - [Open an issue in the repository to request the addition of new content](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose).
+ - [Open an issue in the repository, along with a pull request, to provide new content](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose).
+ - Tell us about any errors by [opening "Error report" issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose).
+ - Help to raise awareness of the resource by telling your colleagues and members of your communities.
+ 
+While we very much welcome all contributions to the resource, please take a look at our [contributing guidelines]({{ site.baseurl }}{% link contributing.md %}) for additional advice and information on contributing.
+
+The aim of the RSEToolkit is not to reinvent the wheel but to offer a concise overview, where relevant, and then to link to existing content as far as possible. Where it is felt that no existing content offers a perspective that is ideally suited to RSEs, we hope to provide this through community contributed material.
+
+## Code of Conduct
+
+We'd also like to highlight and remind you of our [Code of Conduct]({{ site.baseurl }}{% link code_of_conduct.md %}) which applies to any interactions that you have in relation to the RSEToolkit.
+
+<br/><br/>
+**Thanks for your interest in the RSEToolkit, we hope you find it an interesting and valuable resource in supporting your RSE work.**
