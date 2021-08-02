@@ -3,7 +3,7 @@ rse:
     children:
     - title: "Information for new RSEs"
       url: /roles/new-rse/#resources-and-information-for-new-rses
-    - title: "What is an RSE"
+- title: "What is an RSE?"
       url: /roles/new-rse/#what-is-an-rse
     - title: "Where are RSEs and RSE roles based?"
       url: /roles/new-rse/#where-are-rses-and-rse-roles-based
