@@ -1,0 +1,21 @@
+rse:
+  - title: New to RSE?
+    children:
+    - title: "New RSE resources"
+      url: /roles/new-rse/
+  - title: Software Development Hub
+    children:
+    - title: "New RSE resources"
+      url: /softdev/
+  - title: Training Hub
+    children:
+    - title: "Training resources"
+      url: /training/
+  - title: Research Hub
+    children:
+    - title: "Research resources"
+      url: /research
+  - title: Subject Guide
+    children:
+    - title: "Subject-specific resources"
+      url: /subject-guide/
