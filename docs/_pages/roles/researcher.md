@@ -26,8 +26,10 @@ One thing is clear - whether or not you consider yourself to be an RSE, there is
 
 
 **How does the work that RSEs do differ from that of researchers who write code?**
+People who consider themselves RSEs tend to follow and evangelise best practices when developing software.
+RSEs think of software as a fundamental part of research, not just an afterthought.
 
-
+RSEs usually do a combination of assisting researchers develop their code as well as writing new code.
 
 ---------------
 
