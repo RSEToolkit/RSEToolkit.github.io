@@ -7,7 +7,7 @@ layout: single
 
 So you're an academic or a researcher and you spend some of your time writing software?
 
-Maybe you found this page because you're already aware of the Research Software Engineering (RSE) community, or maybe you stumbed on it via a search engine. Either way, we hope to provide you with some background and an introduction to RSE that is tailored towards members of the research community.
+Maybe you found this page because you're already aware of the Research Software Engineering (RSE) community, or maybe you stumbled on it via a search engine. Either way, we hope to provide you with some background and an introduction to RSE that is tailored towards members of the research community.
 
 
 ## Researcher or RSE?
