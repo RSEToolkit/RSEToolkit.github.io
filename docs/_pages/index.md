@@ -19,7 +19,7 @@ header:
 
 # RSEToolkit: The Research Software Engineer's Toolkit
 
-The RSEToolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}).
+The RSEToolkit (RTK) is intended to be a community developed resource for Research Software Engineers (RSEs), researchers, academics and anyone involved in building research software. If you're a user of research software, or you're new to the field, you may also find a range of useful information on this site and its [associated GitHub repository]({{ site.github.repository_url }}). Find about more [about the RSEToolkit]({{ site.baseurl }}{% link _pages/about.md %}).
 
 **Use the role links in the header to quickly find information based on your role. Alternatively, explore the resource through the links below.**
 
@@ -32,16 +32,6 @@ The RSEToolkit (RTK) is intended to be a community developed resource for Resear
  - ###### [Training Hub]({{ site.baseurl }}{% link _pages/training/training.md %})
  - ###### [Research Hub]({{ site.baseurl }}{% link _pages/research/research.md %})
  - ###### [Subject Guide]({{ site.baseurl }}{% link _pages/subjectguide/guide.md %})
-
-## Why RTK?
-
-The RSE community in the UK and beyond has been developing rapidly with groups and communities being started and growing at quite a pace as the interest in research software engineering continues to increase. This resource is intended to support this growth and provide a place where community members can link to their own materials or collaboratively develop new materials.
-
-There is a wealth of information out there but with so much information, it can sometimes be difficult to find what we're looking for, or more generally, to find a summary of the things it is useful to know or be aware of as an RSE.
-
-The initial set of resource areas for RTK is likely to change, and hopefully grow, over time. Some areas may expand, others may become less significant and some may disappear as new areas are added.
-
-It's taken some time to get round to working on this but it's hoped that this initial bootstrapping phase and the initial set of information provided here, will lead to RTK gaining contributions and developing as a community resource.
 
 ## RTK Resources
 
