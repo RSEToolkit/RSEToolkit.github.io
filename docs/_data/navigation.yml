@@ -1,21 +1,35 @@
 rse:
   - title: New to RSE?
     children:
-    - title: "New RSE resources"
-      url: /roles/new-rse/
-  - title: Software Development Hub
+    - title: "Information for new RSEs"
+      url: /roles/new-rse/#resources-and-information-for-new-rses
+    - title: "What is an RSE"
+      url: /roles/new-rse/#what-is-an-rse
+    - title: "Where are RSEs and RSE roles based?"
+      url: /roles/new-rse/#where-are-rses-and-rse-roles-based
+    - title: "Where to look for RSE jobs"
+      url: /roles/new-rse/#where-to-look-for-rse-jobs
+  - title: Software Development
     children:
-    - title: "New RSE resources"
+    - title: "Software development resources"
       url: /softdev/
-  - title: Training Hub
+  - title: Training
     children:
     - title: "Training resources"
       url: /training/
-  - title: Research Hub
+  - title: Research
     children:
     - title: "Research resources"
-      url: /research
-  - title: Subject Guide
+      url: /research/
+  - title: Subject Guides
     children:
     - title: "Subject-specific resources"
       url: /subject-guide/
+    - title: "Available subject guides"
+      url: /subject-guide/#available-subject-guides
+  - title: Contributing
+    children:
+    - title: Code of Conduct
+      url: /code_of_conduct.html
+    - title: Contributing
+      url: /contributing.html
