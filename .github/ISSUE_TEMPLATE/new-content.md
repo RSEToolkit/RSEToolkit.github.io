@@ -11,7 +11,7 @@ assignees: ''
 Are you requesting or providing new content? _(replace [ ] with [x] to check the relevant box in the list below)_
 
 - [ ] **Content request:** You would like to see new content covering a specific topic added to the resource
-- [ ] **Providing content:** You are providing some new content for the RSEToolkit (conent to be provided via a pull request)
+- [ ] **Providing content:** You are providing some new content for the RSEToolkit (content to be provided via a pull request)
 - [ ] **Other new content-related query:** You have some other query related to content not currently present in the resource (e.g. a question about whether some specific material might be useful/relevant)
 
 **New content information**
