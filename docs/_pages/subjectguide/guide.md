@@ -22,7 +22,7 @@ We have prepared some example guides below. Some of these are currently a work-i
 - **Arts and Humanities**
 - **Engineering**
 - **Medicine**
-  - [Bioinformatics](#)
+  - [Biology and Bioinformatics](#biology)
 - **Pysical Sciences**
 
 {% include can-you-help.html %}

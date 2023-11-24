@@ -3,6 +3,17 @@ permalink: /roles/researcher/
 title: Roles | Academic / Researcher
 breadcrumb: Academic/Researcher
 layout: single
+sidebar:
+  title: "Information for researchers"
+  children:
+    - title: "Section 1"
+      url: #section1
+    - title: "Section 2"
+      url: #section2
+    - title: "Section 3"
+      url: #section3
+    - title: "Section 4"
+      url: #section4
 ---
 
 # Research Resources
