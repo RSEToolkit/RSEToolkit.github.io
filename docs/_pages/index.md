@@ -26,8 +26,15 @@ The RSEToolkit (RTK) is intended to be a community developed resource for Resear
 **Suggest or contribute new content:** The RSEToolkit is a work in progress. We're continuing to develop the resource and are always happy to receive contributions via [our GitHub repository](https://github.com/rsetoolkit/rsetoolkit). You can [open an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose) if there's some content you'd like us to add, or you can contribute content directly by following our [contributing guidelines]({{ site.baseurl }}{% link contributing.md %}).
 {: .notice--info}
 
+**Articles and blog posts:** Take a look at our new page containing links to a
+variety of [articles and blog posts]({{ site.baseurl }}{% link
+_pages/general/articles.md %}) relating to work being undertaken in the RSE
+community. 
+{: .notice--success}
+
 #### Quick links:
  - ###### [New to RSE?]({{ site.baseurl }}{% link _pages/roles/new-rse.md %})
+ - ###### [Articles, Guides and Blog Posts]({{ site.baseurl }}{% link _pages/general/articles.md %})
  - ###### [Software Development Hub]({{ site.baseurl }}{% link _pages/softdev/softdev.md %})
  - ###### [Training Hub]({{ site.baseurl }}{% link _pages/training/training.md %})
  - ###### [Research Hub]({{ site.baseurl }}{% link _pages/research/research.md %})
