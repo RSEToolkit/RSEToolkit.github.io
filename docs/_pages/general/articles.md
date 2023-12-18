@@ -6,6 +6,12 @@ layout: single
 classes: wide
 ---
 
+_If you are aware of additional articles you'd like to see added to this
+section, we are keen to include additional content. Please
+[open an
+issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose)
+in the GitHub repository to let us know what you'd like us to add._
+
 ## RSE Careers
 
  * [Research Software Engineers: Creating a Career Path—and a
@@ -24,16 +30,38 @@ classes: wide
 
 ## RSE Structures and Background
 
- * S. Hettrick. [A not-so-brief history of Research Software
-   Engineers](https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0).
-   Software Sustainability Institute blog, Aug 2016.
+### General
+   * S. Hettrick. [A not-so-brief history of Research Software
+     Engineers](https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0).
+     Software Sustainability Institute blog, Aug 2016.
 
- * J. Cohen, D. S. Katz, M. Barker, N. Chue Hong, R. Haines and C. Jay, "[The
-   Four Pillars of Research Software
-   Engineering](https://ieeexplore.ieee.org/document/8994167)", in IEEE
-   Software, vol. 38, no. 1, pp. 97-105, Jan.-Feb. 2021, doi:
-   [10.1109/MS.2020.2973362](https://doi.org/10.1109/MS.2020.2973362).
-   ([preprint](https://doi.org/10.48550/arXiv.2002.01035))
+   * J. Cohen, D. S. Katz, M. Barker, N. Chue Hong, R. Haines and C. Jay, "[The
+     Four Pillars of Research Software
+     Engineering](https://ieeexplore.ieee.org/document/8994167)", in IEEE
+     Software, vol. 38, no. 1, pp. 97-105, Jan.-Feb. 2021, doi:
+     [10.1109/MS.2020.2973362](https://doi.org/10.1109/MS.2020.2973362).
+     ([preprint](https://doi.org/10.48550/arXiv.2002.01035))
+
+### RSE Group Structures
+
+   * D. S. Katz, K. McHenry, C. Reinking and R. Haines. [Research Software
+     Development & Management in Universities: Case Studies from
+     Manchester's RSDS Group, Illinois' NCSA, and Notre Dame's CRC](
+        https://ieeexplore.ieee.org/document/8823733).
+      2019 IEEE/ACM 14th International Workshop on Software Engineering for
+      Science (SE4Science), Montreal, QC, Canada, 2019, pp. 17-24,
+      doi: [10.1109/SE4Science.2019.00009](
+        https://doi.org/10.1109/SE4Science.2019.00009).
+      ([preprint](http://arxiv.org/abs/1903.00732))
+
+   * I. Cosden. [The Princeton University Research Software Engineering Group
+     Model: Operational and Organizational Approaches](
+        https://doi.ieeecomputersociety.org/10.1109/MCSE.2023.3264113), in
+      Computing in Science & Engineering, vol. 24, no. 05, pp. 24-31, 2022.
+      doi: [10.1109/MCSE.2023.3264113](
+        https://doi.ieeecomputersociety.org/10.1109/MCSE.2023.3264113).
+      ([preprint](https://arxiv.org/abs/2210.16261))
+
 
 ## Equity, Diversity and Inclusion in the RSE Community
 
